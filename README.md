@@ -14,21 +14,21 @@ GET
      
      https://thriving-smile-production-7a7a.up.railway.app/update-pet/ (Update pet form)
      
-     [URL + ](https://thriving-smile-production-7a7a.up.railway.app)/pet/{id}/ (Return pet with mentioned id)
+     https://thriving-smile-production-7a7a.up.railway.app/pet/{id}/ (Return pet with mentioned id)
      
-     URL + /pet/findByStatus/{status}/ (Return pets with mentioned status)
+     https://thriving-smile-production-7a7a.up.railway.app/pet/findByStatus/{status}/ (Return pets with mentioned status)
 
 
 POST
 
-     [URL + ](https://thriving-smile-production-7a7a.up.railway.app)/update-pet/ (Swaps pet object)
+     https://thriving-smile-production-7a7a.up.railway.app/update-pet/ (Swaps pet object)
      
-     [URL + ](https://thriving-smile-production-7a7a.up.railway.app)/add-pet/ (Adds new pet in store.)
+     https://thriving-smile-production-7a7a.up.railway.app/add-pet/ (Adds new pet in store.)
 
 
 DELETE
 
-     [URL + ](https://thriving-smile-production-7a7a.up.railway.app)/delete/ (Removes choosen pet)
+     https://thriving-smile-production-7a7a.up.railway.app/delete/ (Removes choosen pet)
 
      
 
