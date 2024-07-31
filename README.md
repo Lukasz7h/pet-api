@@ -7,6 +7,7 @@ Available urls:
 URL: https://thriving-smile-production-7a7a.up.railway.app
 
 GET
+
      URL + /delete/ (Delete form)
      
      URL + /add-pet/ (Add pet form)
