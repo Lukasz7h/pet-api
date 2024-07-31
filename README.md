@@ -8,17 +8,28 @@ URL: https://thriving-smile-production-7a7a.up.railway.app
 
 GET
      URL + /delete/ (Delete form)
+     
      URL + /add-pet/ (Add pet form)
+     
      URL + /update-pet/ (Update pet form)
+     
      URL + /pet/{id}/ (Return pet with mentioned id)
+     
      URL + /pet/findByStatus/{status}/ (Return pets with mentioned status)
 
+
 POST
+
      URL + /update-pet/ (Swaps pet object)
+     
      URL + /add-pet/ (Adds new pet in store.)
 
+
 DELETE
+
      URL + /delete/ (Removes choosen pet)
+
+     
 
 Docker hub: https://hub.docker.com/repository/docker/lukasz625/pet-api/general
 Below that link is available docker image base on which API was launched (host is railway.app). That image was composed via dockerfile which could be easy found in repository.
