@@ -8,11 +8,11 @@ URL: https://thriving-smile-production-7a7a.up.railway.app
 
 GET
 
-    [ URL + ](https://thriving-smile-production-7a7a.up.railway.app)/delete/ (Delete form)
+     https://thriving-smile-production-7a7a.up.railway.app/delete/ (Delete form)
      
-     [URL + ](https://thriving-smile-production-7a7a.up.railway.app)/add-pet/ (Add pet form)
+     https://thriving-smile-production-7a7a.up.railway.app/add-pet/ (Add pet form)
      
-     [URL + ](https://thriving-smile-production-7a7a.up.railway.app)/update-pet/ (Update pet form)
+     https://thriving-smile-production-7a7a.up.railway.app/update-pet/ (Update pet form)
      
      [URL + ](https://thriving-smile-production-7a7a.up.railway.app)/pet/{id}/ (Return pet with mentioned id)
      
