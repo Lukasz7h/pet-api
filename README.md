@@ -8,27 +8,27 @@ URL: https://thriving-smile-production-7a7a.up.railway.app
 
 GET
 
-     URL + /delete/ (Delete form)
+    [ URL + ](https://thriving-smile-production-7a7a.up.railway.app)/delete/ (Delete form)
      
-     URL + /add-pet/ (Add pet form)
+     [URL + ](https://thriving-smile-production-7a7a.up.railway.app)/add-pet/ (Add pet form)
      
-     URL + /update-pet/ (Update pet form)
+     [URL + ](https://thriving-smile-production-7a7a.up.railway.app)/update-pet/ (Update pet form)
      
-     URL + /pet/{id}/ (Return pet with mentioned id)
+     [URL + ](https://thriving-smile-production-7a7a.up.railway.app)/pet/{id}/ (Return pet with mentioned id)
      
      URL + /pet/findByStatus/{status}/ (Return pets with mentioned status)
 
 
 POST
 
-     URL + /update-pet/ (Swaps pet object)
+     [URL + ](https://thriving-smile-production-7a7a.up.railway.app)/update-pet/ (Swaps pet object)
      
-     URL + /add-pet/ (Adds new pet in store.)
+     [URL + ](https://thriving-smile-production-7a7a.up.railway.app)/add-pet/ (Adds new pet in store.)
 
 
 DELETE
 
-     URL + /delete/ (Removes choosen pet)
+     [URL + ](https://thriving-smile-production-7a7a.up.railway.app)/delete/ (Removes choosen pet)
 
      
 
